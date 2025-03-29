@@ -1,4 +1,4 @@
-# Survey Analysis: Insights into Data Professionals
+# Survey Analysis & Visualization for Data Professionals
 
 ## Overview
 This project focuses on analyzing and visualizing the results of a survey conducted among data professionals. The goal is to uncover trends, patterns, and insights about their roles, tools, skills, and challenges. From data import to advanced visualizations, the analysis leverages a variety of techniques to ensure a comprehensive understanding of the survey results.
